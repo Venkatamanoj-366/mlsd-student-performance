@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# DVC Cache
+.dvc/cache/
+
+# MLflow
+mlruns/
+
+# Models
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Kubernetes temp
+*.tmp
+
+# Streamlit cache
+.streamlit/
+
+# Docker
+*.tar
+
+mlflow.db
+mlruns/

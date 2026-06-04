@@ -1,0 +1,35 @@
+# Git
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# DVC cache
+.dvc/cache/
+
+# MLflow
+mlruns/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Local Kubernetes files
+kubeconfig
+
+# OS files
+.DS_Store
+Thumbs.db
